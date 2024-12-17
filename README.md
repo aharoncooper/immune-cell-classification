@@ -144,11 +144,10 @@ Web Interface: Create a web-based interface for real-time white blood cell detec
 ## Acknowledgments:
 Thanks to the contributors of open-source libraries and datasets that made this project possible, especially the YOLOv8 and Fastai communities.
 
-You can find my model on Hugging Face [here](https://huggingface.co/CooperAharon/white-blood-cell-classifier).
-
-
 ## License:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact:
 For any questions or collaboration inquiries, please reach out to cooperaharon49@gmail.com.
+
+You can find my model on Hugging Face [here](https://huggingface.co/CooperAharon/white-blood-cell-classifier).
